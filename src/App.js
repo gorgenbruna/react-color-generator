@@ -16,14 +16,10 @@ function App() {
     try {
       let colors = new Values(color).all(10)
       setList(colors)
-      console.log(colors)
     } catch(error) {
       setError(true)
-      console.log(error)
     }
-
   }
-
 
   return (
     <>

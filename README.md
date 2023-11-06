@@ -1,7 +1,7 @@
 # App Color Generation 
 
 <p>
-Com a realização deste projeto pude estudar mais sobre alguns conceitos do <strong>React como hooks, setTimeout</strong> e etc:
+Com a realização deste projeto pude estudar mais sobre alguns conceitos do <strong>React e Javascript, como: hooks, setTimeout</strong> e etc:
 </p>
 
 <ul>
